@@ -1,5 +1,3 @@
-#REGINALD HUEY TAN IAN JAY (S10239913) - IT01 (P01)
-
 #====================== GAME FIELD ======================
 field = [[[None, None], [None, None], [None, None], [None, None], [None, None], [None, None], [None, None]],
          [[None, None], [None, None], [None, None], [None, None], [None, None], [None, None], [None, None]],
